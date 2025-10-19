@@ -91,6 +91,12 @@ export default function DialogDemo() {
         schema: selectedSchemasList,
       }),
     })
+
+    setSegmentName("");
+    setSelectValue("");
+    setSelectedSchemasList([]);
+    setUnselectedOptions(options);
+    setSelectedSchema({});
   }
 
   return (
