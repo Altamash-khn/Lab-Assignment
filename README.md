@@ -5,7 +5,7 @@ The app builds a small **Segment Creator** UI where users can add a segment name
 
 ## Live Demo
 
-<a href="https://lab-assignment.vercel.app/" />
+Click <a href="https://lab-assignment.vercel.app/">HERE</a> to see the live demo
 
 ## Tech Stack
 
